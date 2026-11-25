@@ -1,0 +1,2 @@
+# Optional: only needed for fresh questions from the Claude API
+anthropic>=0.40

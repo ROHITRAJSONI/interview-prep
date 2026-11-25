@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.prep_state.json
+# session files are committed to practice/<topic> branches, not to daily-practice
+sessions/
